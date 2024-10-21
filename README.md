@@ -7,3 +7,10 @@
 + **Loops** - Program5.py
 + **Write a function** - Program6.py
 + **Print Function** - Program7.py
++ **List Comprehensions** - Program8.py
++ **Find the Runner-Up Score!** - Program9.py
++ **Nested Lists** - Program10.py
++ **Finding the percentage** - Program11.py
++ **Lists** - Program12.py
++ **Tuples** - Program13.py
+
